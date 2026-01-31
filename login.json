@@ -1,1 +1,20 @@
-axisowner:axis2001!
+{
+  "users": [
+    {
+      "username": "99",
+      "password": "99",
+      "uuid": ""
+    },
+    {
+      "username": "",
+      "password": "",
+      "uuid": ""
+    },
+    {
+      "username": "",
+      "password": "",
+      "uuid": ""
+    }
+  ],
+  "lastUpdated": "2024-01-01T12:00:00Z"
+}
