@@ -1,11 +1,12 @@
 [
-  {
-    "username": "axisowner",
-    "password": "axisowner",
-    "uuid": ""
-  },
-  {
-    "username": "toodles",
-    "password": "toodles",
-    "uuid": ""
-  }
+    {
+        "username": "testuser",
+        "password": "testpass",
+        "uid": ""
+    },
+    {
+        "username": "aaaaaaaaa",
+        "password": "aaaaaaaaaa",
+        "uid": ""
+    }
+]
