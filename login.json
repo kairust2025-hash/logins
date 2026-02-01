@@ -1,19 +1,11 @@
-{
-  "users": [
-    {
-      "username": "333",
-      "password": "333",
-      "uuid": ""
-    },
-    {
-      "username": "user2",
-      "password": "pass2",
-      "uuid": ""
-    },
-    {
-      "username": "user3",
-      "password": "pass3",
-      "uuid": ""
-    }
-  ]
-}
+[
+  {
+    "username": "testuser",
+    "password": "testpass",
+    "uuid": ""
+  },
+  {
+    "username": "aaaaaaa",
+    "password": "aaaaaaaaa",
+    "uuid": ""
+  }
