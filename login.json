@@ -2,19 +2,25 @@
     {
         "username": "axis2",
         "password": "axis2001!",
-        "uuid": "123e4567-e89b-12d3-a456-426614174000",
+        "uuid": "MB12345678,MB87654321,CPU-ABC123",
         "banned": "no"
     },
     {
         "username": "00",
         "password": "00",
-        "uuid": "987e6543-b89c-32d1-b654-426614174999",
+        "uuid": "",
         "banned": "yes"
     },
     {
-        "username": "testuser",
-        "password": "testpass123",
-        "uuid": "555e6666-f77g-44h5-c555-426614175555",
+        "username": "admin",
+        "password": "admin123",
+        "uuid": "SERIAL-001",
+        "banned": "no"
+    },
+    {
+        "username": "test",
+        "password": "test123",
+        "uuid": "UUID1,UUID2,UUID3",
         "banned": "no"
     }
 ]
