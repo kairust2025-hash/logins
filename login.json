@@ -2,11 +2,19 @@
     {
         "username": "axis2",
         "password": "axis2001!",
-        "uid": ""
+        "uuid": "123e4567-e89b-12d3-a456-426614174000",
+        "banned": "no"
     },
     {
         "username": "00",
         "password": "00",
-        "uid": ""
+        "uuid": "987e6543-b89c-32d1-b654-426614174999",
+        "banned": "yes"
+    },
+    {
+        "username": "testuser",
+        "password": "testpass123",
+        "uuid": "555e6666-f77g-44h5-c555-426614175555",
+        "banned": "no"
     }
 ]
