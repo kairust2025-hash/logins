@@ -14,13 +14,13 @@
     {
         "username": "admin",
         "password": "admin123",
-        "uuid": "SERIAL-001",
+        "uuid": "",
         "banned": "no"
     },
     {
         "username": "test",
         "password": "test123",
-        "uuid": "UUID1,UUID2,UUID3",
+        "uuid": "",
         "banned": "no"
     }
 ]
