@@ -21,6 +21,6 @@
         "username": "test",
         "password": "test123",
         "uuid": "",
-        "banned": "no"
+        "banned": "yes"
     }
 ]
