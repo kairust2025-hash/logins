@@ -1,7 +1,7 @@
 [
     {
         "username": "axis2",
-        "password": "axis2001!",
+        "password": "axis2001",
         "uuid": "220909709102666",
         "banned": "no"
     },
@@ -12,15 +12,63 @@
         "banned": "no"
     },
     {
-        "username": "admin",
-        "password": "admin123",
+        "username": "caz123",
+        "password": "pigdih",
         "uuid": "",
         "banned": "no"
     },
     {
-        "username": "test",
-        "password": "test123",
+        "username": "max901",
+        "password": "maxdih",
         "uuid": "",
         "banned": "yes"
+    },
+    {
+        "username": "lootg",
+        "password": "lootg",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "premium",
+        "password": "premium456",
+        "uuid": "440928928304888",
+        "banned": "no"
+    },
+    {
+        "username": "guest",
+        "password": "guest789",
+        "uuid": "",
+        "banned": "no"
+    },
+    {
+        "username": "support",
+        "password": "support321",
+        "uuid": "550038038405999",
+        "banned": "no"
+    },
+    {
+        "username": "developer",
+        "password": "dev2026!",
+        "uuid": "660148148406111",
+        "banned": "no"
+    },
+    {
+        "username": "trial",
+        "password": "trial999",
+        "uuid": "",
+        "banned": "yes"
+    },
+    {
+        "username": "vip",
+        "password": "vip123!",
+        "uuid": "770258258507222",
+        "banned": "no"
+    },
+    {
+        "username": "beta",
+        "password": "beta2026",
+        "uuid": "880368368608333",
+        "banned": "no"
     }
 ]
