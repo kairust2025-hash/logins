@@ -60,15 +60,15 @@
         "banned": ""
     },
     {
-        "username": "vip",
-        "password": "vip123!",
-        "uuid": "770258258507222",
+        "username": "70001",
+        "password": "70005",
+        "uuid": "",
         "banned": "no"
     },
     {
-        "username": "beta",
-        "password": "beta2026",
-        "uuid": "880368368608333",
+        "username": "9997",
+        "password": "7779",
+        "uuid": "",
         "banned": "no"
     }
 ]
